@@ -1,2 +1,2 @@
 # primitive_to_do_list
-a primitive to do list with only a mark "done" feature
+You can click on a goal to mark it as "completed".
